@@ -1,0 +1,177 @@
+body {
+    width: 100%;
+    height: 100%;
+    height: 300vh;
+    background-image: url(plan2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+i {
+    position: absolute;
+    top: 15px;
+    position: absolute;
+    transform: translateY(-50);
+    left: 0px;
+    font-size: 50px;
+}
+
+
+h2 {
+    width: 100%;
+    font-size: 30px;
+    color: blue;
+    margin-left: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: black;
+}
+
+h3 {
+    text-align: center;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: black;
+}
+
+.info {
+    width: 90%;
+    background: transparent;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    padding: 30px 40px;
+
+}
+
+.info input {
+    width: 30%;
+    height: 50%;
+    margin: 20px;
+    padding: 12px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 40px;
+    color: #050000;
+    font-size: 16px;
+}
+
+.info label {
+    font: bold;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.info select {
+    width: 14%;
+    height: 50%;
+    margin-left: 20px;
+    padding: 8px;
+    background-color: transparent;
+    border: 2px solid;
+}
+
+nav {
+    text-align: center;
+    display: flex;
+    background: fixed;
+}
+
+.nav1 label {
+    width: 20%;
+    background: fixed;
+    margin-top: 24px;
+}
+
+.nav1 input {
+    width: 20%;
+    background: fixed;
+    margin-top: 20px;
+}
+
+.customer {
+    width: 90%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background: transparent;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    padding: 30px 40px;
+}
+
+.nav2 label {
+    width: 20%;
+    background: fixed;
+    margin-top: 24px;
+    color: #fff;
+}
+
+input {
+    width: 20%;
+    height: 50%;
+    margin: 20px;
+    padding: 12px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 40px;
+    color: #fff;
+    font-size: 16px;
+
+}
+
+.nav2 select {
+    width: 14%;
+    height: 50%;
+    margin-left: 20px;
+    padding: 8px;
+    background-color: transparent;
+    border: 2px solid rgb(243, 243, 243);
+    color: black;
+}
+
+label {
+    width: 20%;
+    font: bold;
+    font-size: 20px;
+}
+
+select {
+    width: 20%;
+    margin: 20px;
+    padding: 8px;
+    border: 2px solid;
+    background: fixed;
+}
+
+button {
+    width: 20%;
+    background-color: black;
+    color: antiquewhite;
+    border: 2px solid;
+    border-radius: 40px;
+    margin: 20px;
+    margin-left: 40%;
+    padding: 15px;
+}
+
+.control {
+    width: 90%;
+    background: transparent;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    padding: 30px 40px;
+}
+
+.customer input {
+    color: black;
+}
